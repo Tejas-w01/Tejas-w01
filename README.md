@@ -9,10 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tejas warade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejas warade" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tejas-warade-583741215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejas-warade-583741215" height="30" width="40" /></a>
 <a href="https://instagram.com/_tejas_warade_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_tejas_warade_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tejas warade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tejas warade" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/tejaswae7ta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tejaswae7ta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
