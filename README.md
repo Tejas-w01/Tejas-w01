@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas Warade</h1>
 <h3 align="center">Bringing Ideas to Life Through Code</h3>
 
-- 🌱 I’m currently learning **API Development**
+- 🌱 I’m currently learning **JavaScript and API basics**
 
 - 💬 Ask me about **DSA, HTML & CSS**
 
