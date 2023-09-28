@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.**
 
-- 👨‍💻 All of my projects are available at [https://tejas-warade.github.io/My-Portfolio-Website/](https://tejas-warade.github.io/My-Portfolio-Website/)
+- 👨‍💻 All of my projects are available at [https://tejaswarade.netlify.app/](https://tejaswarade.netlify.app/)
 
 - 💬 Ask me about **C++, HTML-CSS-JS.**
 
